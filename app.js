@@ -1,6 +1,8 @@
-let a = 1 
-let b = 2 
-const c = a + b;
+let array = [1, 2, 3, 4, 5, 6, 7,]
 
-alert(c);
+for (let i = 0; i < array.length; i++ ) {
+    alert([i]);
+    
+}
+
 
